@@ -1,0 +1,6 @@
+C:\Users\codab\source\repos\DynamicMassiv\DynamicMassiv\bin\Debug\DynamicMassiv.exe.config
+C:\Users\codab\source\repos\DynamicMassiv\DynamicMassiv\bin\Debug\DynamicMassiv.exe
+C:\Users\codab\source\repos\DynamicMassiv\DynamicMassiv\bin\Debug\DynamicMassiv.pdb
+C:\Users\codab\source\repos\DynamicMassiv\DynamicMassiv\obj\Debug\DynamicMassiv.csprojAssemblyReference.cache
+C:\Users\codab\source\repos\DynamicMassiv\DynamicMassiv\obj\Debug\DynamicMassiv.exe
+C:\Users\codab\source\repos\DynamicMassiv\DynamicMassiv\obj\Debug\DynamicMassiv.pdb

@@ -1,0 +1,6 @@
+D:\Courses\CSLight\BraveNewWorld\BraveNewWorld\bin\Debug\BraveNewWorld.exe.config
+D:\Courses\CSLight\BraveNewWorld\BraveNewWorld\bin\Debug\BraveNewWorld.exe
+D:\Courses\CSLight\BraveNewWorld\BraveNewWorld\bin\Debug\BraveNewWorld.pdb
+D:\Courses\CSLight\BraveNewWorld\BraveNewWorld\obj\Debug\BraveNewWorld.csprojAssemblyReference.cache
+D:\Courses\CSLight\BraveNewWorld\BraveNewWorld\obj\Debug\BraveNewWorld.exe
+D:\Courses\CSLight\BraveNewWorld\BraveNewWorld\obj\Debug\BraveNewWorld.pdb

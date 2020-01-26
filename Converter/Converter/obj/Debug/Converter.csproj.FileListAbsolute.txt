@@ -1,0 +1,6 @@
+D:\Courses\CSLight\Converter\Converter\bin\Debug\Converter.exe.config
+D:\Courses\CSLight\Converter\Converter\bin\Debug\Converter.exe
+D:\Courses\CSLight\Converter\Converter\bin\Debug\Converter.pdb
+D:\Courses\CSLight\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+D:\Courses\CSLight\Converter\Converter\obj\Debug\Converter.exe
+D:\Courses\CSLight\Converter\Converter\obj\Debug\Converter.pdb

@@ -1,0 +1,6 @@
+C:\Users\codab\source\repos\SpokMan\SpokMan\bin\Debug\SpokMan.exe.config
+C:\Users\codab\source\repos\SpokMan\SpokMan\bin\Debug\SpokMan.exe
+C:\Users\codab\source\repos\SpokMan\SpokMan\bin\Debug\SpokMan.pdb
+C:\Users\codab\source\repos\SpokMan\SpokMan\obj\Debug\SpokMan.csprojAssemblyReference.cache
+C:\Users\codab\source\repos\SpokMan\SpokMan\obj\Debug\SpokMan.exe
+C:\Users\codab\source\repos\SpokMan\SpokMan\obj\Debug\SpokMan.pdb

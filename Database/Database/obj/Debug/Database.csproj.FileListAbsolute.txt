@@ -1,0 +1,6 @@
+C:\Users\Ден\source\repos\Database\Database\bin\Debug\Database.exe.config
+C:\Users\Ден\source\repos\Database\Database\bin\Debug\Database.exe
+C:\Users\Ден\source\repos\Database\Database\bin\Debug\Database.pdb
+C:\Users\Ден\source\repos\Database\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Ден\source\repos\Database\Database\obj\Debug\Database.exe
+C:\Users\Ден\source\repos\Database\Database\obj\Debug\Database.pdb

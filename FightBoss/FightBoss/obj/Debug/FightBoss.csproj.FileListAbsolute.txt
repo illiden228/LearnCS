@@ -1,0 +1,6 @@
+D:\Courses\CSLight\FightBoss\FightBoss\bin\Debug\FightBoss.exe.config
+D:\Courses\CSLight\FightBoss\FightBoss\bin\Debug\FightBoss.exe
+D:\Courses\CSLight\FightBoss\FightBoss\bin\Debug\FightBoss.pdb
+D:\Courses\CSLight\FightBoss\FightBoss\obj\Debug\FightBoss.csprojAssemblyReference.cache
+D:\Courses\CSLight\FightBoss\FightBoss\obj\Debug\FightBoss.exe
+D:\Courses\CSLight\FightBoss\FightBoss\obj\Debug\FightBoss.pdb

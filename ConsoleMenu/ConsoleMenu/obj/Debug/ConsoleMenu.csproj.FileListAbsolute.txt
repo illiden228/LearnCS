@@ -1,0 +1,12 @@
+D:\Courses\CSLight\ConsoleMenu\ConsoleMenu\bin\Debug\ConsoleMenu.exe.config
+D:\Courses\CSLight\ConsoleMenu\ConsoleMenu\bin\Debug\ConsoleMenu.exe
+D:\Courses\CSLight\ConsoleMenu\ConsoleMenu\bin\Debug\ConsoleMenu.pdb
+D:\Courses\CSLight\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.csprojAssemblyReference.cache
+D:\Courses\CSLight\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.exe
+D:\Courses\CSLight\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.pdb
+D:\repos\ConsoleMenu\ConsoleMenu\bin\Debug\ConsoleMenu.exe.config
+D:\repos\ConsoleMenu\ConsoleMenu\bin\Debug\ConsoleMenu.exe
+D:\repos\ConsoleMenu\ConsoleMenu\bin\Debug\ConsoleMenu.pdb
+D:\repos\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.csprojAssemblyReference.cache
+D:\repos\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.exe
+D:\repos\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.pdb
