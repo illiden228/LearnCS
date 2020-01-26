@@ -1,0 +1,6 @@
+C:\Users\codab\source\repos\Shuffle\Shuffle\bin\Debug\Shuffle.exe.config
+C:\Users\codab\source\repos\Shuffle\Shuffle\bin\Debug\Shuffle.exe
+C:\Users\codab\source\repos\Shuffle\Shuffle\bin\Debug\Shuffle.pdb
+C:\Users\codab\source\repos\Shuffle\Shuffle\obj\Debug\Shuffle.csprojAssemblyReference.cache
+C:\Users\codab\source\repos\Shuffle\Shuffle\obj\Debug\Shuffle.exe
+C:\Users\codab\source\repos\Shuffle\Shuffle\obj\Debug\Shuffle.pdb

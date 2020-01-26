@@ -1,0 +1,6 @@
+D:\Courses\CSLight\PlayerXY\PlayerXY\bin\Debug\PlayerXY.exe.config
+D:\Courses\CSLight\PlayerXY\PlayerXY\bin\Debug\PlayerXY.exe
+D:\Courses\CSLight\PlayerXY\PlayerXY\bin\Debug\PlayerXY.pdb
+D:\Courses\CSLight\PlayerXY\PlayerXY\obj\Debug\PlayerXY.csprojAssemblyReference.cache
+D:\Courses\CSLight\PlayerXY\PlayerXY\obj\Debug\PlayerXY.exe
+D:\Courses\CSLight\PlayerXY\PlayerXY\obj\Debug\PlayerXY.pdb

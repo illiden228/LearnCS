@@ -1,0 +1,6 @@
+C:\Users\codab\source\repos\Massiv\Massiv\bin\Debug\Massiv.exe.config
+C:\Users\codab\source\repos\Massiv\Massiv\bin\Debug\Massiv.exe
+C:\Users\codab\source\repos\Massiv\Massiv\bin\Debug\Massiv.pdb
+C:\Users\codab\source\repos\Massiv\Massiv\obj\Debug\Massiv.csprojAssemblyReference.cache
+C:\Users\codab\source\repos\Massiv\Massiv\obj\Debug\Massiv.exe
+C:\Users\codab\source\repos\Massiv\Massiv\obj\Debug\Massiv.pdb

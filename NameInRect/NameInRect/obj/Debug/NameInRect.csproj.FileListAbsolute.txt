@@ -1,0 +1,6 @@
+D:\Courses\CSLight\NameInRect\NameInRect\bin\Debug\NameInRect.exe.config
+D:\Courses\CSLight\NameInRect\NameInRect\bin\Debug\NameInRect.exe
+D:\Courses\CSLight\NameInRect\NameInRect\bin\Debug\NameInRect.pdb
+D:\Courses\CSLight\NameInRect\NameInRect\obj\Debug\NameInRect.csprojAssemblyReference.cache
+D:\Courses\CSLight\NameInRect\NameInRect\obj\Debug\NameInRect.exe
+D:\Courses\CSLight\NameInRect\NameInRect\obj\Debug\NameInRect.pdb

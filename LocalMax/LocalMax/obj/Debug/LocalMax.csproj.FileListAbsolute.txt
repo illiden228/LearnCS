@@ -1,0 +1,6 @@
+C:\Users\codab\source\repos\LocalMax\LocalMax\bin\Debug\LocalMax.exe.config
+C:\Users\codab\source\repos\LocalMax\LocalMax\bin\Debug\LocalMax.exe
+C:\Users\codab\source\repos\LocalMax\LocalMax\bin\Debug\LocalMax.pdb
+C:\Users\codab\source\repos\LocalMax\LocalMax\obj\Debug\LocalMax.csprojAssemblyReference.cache
+C:\Users\codab\source\repos\LocalMax\LocalMax\obj\Debug\LocalMax.exe
+C:\Users\codab\source\repos\LocalMax\LocalMax\obj\Debug\LocalMax.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ден\source\repos\PracticeMassiveFirst\PracticeMassiveFirst\bin\Debug\PracticeMassiveFirst.exe.config
+C:\Users\Ден\source\repos\PracticeMassiveFirst\PracticeMassiveFirst\bin\Debug\PracticeMassiveFirst.exe
+C:\Users\Ден\source\repos\PracticeMassiveFirst\PracticeMassiveFirst\bin\Debug\PracticeMassiveFirst.pdb
+C:\Users\Ден\source\repos\PracticeMassiveFirst\PracticeMassiveFirst\obj\Debug\PracticeMassiveFirst.csprojAssemblyReference.cache
+C:\Users\Ден\source\repos\PracticeMassiveFirst\PracticeMassiveFirst\obj\Debug\PracticeMassiveFirst.exe
+C:\Users\Ден\source\repos\PracticeMassiveFirst\PracticeMassiveFirst\obj\Debug\PracticeMassiveFirst.pdb
