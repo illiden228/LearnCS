@@ -1,0 +1,19 @@
+D:\projects_C-\Calculator v.2\Calculator v.2\bin\Debug\Calculator v.2.exe.config
+D:\projects_C-\Calculator v.2\Calculator v.2\bin\Debug\Calculator v.2.exe
+D:\projects_C-\Calculator v.2\Calculator v.2\bin\Debug\Calculator v.2.pdb
+D:\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator v.2.csprojAssemblyReference.cache
+D:\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator_v._2.Calculator.resources
+D:\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator_v._2.Properties.Resources.resources
+D:\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator v.2.csproj.GenerateResource.cache
+D:\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator v.2.csproj.CoreCompileInputs.cache
+D:\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator v.2.exe
+D:\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator v.2.pdb
+D:\projects\C#\projects_C-\Calculator v.2\Calculator v.2\bin\Debug\Calculator v.2.exe.config
+D:\projects\C#\projects_C-\Calculator v.2\Calculator v.2\bin\Debug\Calculator v.2.exe
+D:\projects\C#\projects_C-\Calculator v.2\Calculator v.2\bin\Debug\Calculator v.2.pdb
+D:\projects\C#\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator v.2.csprojAssemblyReference.cache
+D:\projects\C#\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator_v._2.Calculator.resources
+D:\projects\C#\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator_v._2.Properties.Resources.resources
+D:\projects\C#\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator v.2.csproj.GenerateResource.cache
+D:\projects\C#\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator v.2.exe
+D:\projects\C#\projects_C-\Calculator v.2\Calculator v.2\obj\Debug\Calculator v.2.pdb
