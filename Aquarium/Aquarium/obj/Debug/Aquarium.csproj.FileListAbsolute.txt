@@ -1,0 +1,12 @@
+C:\Users\codab\source\repos\Aquarium\Aquarium\bin\Debug\Aquarium.exe.config
+C:\Users\codab\source\repos\Aquarium\Aquarium\bin\Debug\Aquarium.exe
+C:\Users\codab\source\repos\Aquarium\Aquarium\bin\Debug\Aquarium.pdb
+C:\Users\codab\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.csprojAssemblyReference.cache
+C:\Users\codab\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.exe
+C:\Users\codab\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.pdb
+D:\Courses\CSLight\Aquarium\Aquarium\bin\Debug\Aquarium.exe.config
+D:\Courses\CSLight\Aquarium\Aquarium\bin\Debug\Aquarium.exe
+D:\Courses\CSLight\Aquarium\Aquarium\bin\Debug\Aquarium.pdb
+D:\Courses\CSLight\Aquarium\Aquarium\obj\Debug\Aquarium.csprojAssemblyReference.cache
+D:\Courses\CSLight\Aquarium\Aquarium\obj\Debug\Aquarium.exe
+D:\Courses\CSLight\Aquarium\Aquarium\obj\Debug\Aquarium.pdb
