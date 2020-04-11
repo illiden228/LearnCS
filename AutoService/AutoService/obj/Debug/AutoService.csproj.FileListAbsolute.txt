@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\AutoService\AutoService\bin\Debug\AutoService.exe.config
+C:\Users\Denis\source\repos\AutoService\AutoService\bin\Debug\AutoService.exe
+C:\Users\Denis\source\repos\AutoService\AutoService\bin\Debug\AutoService.pdb
+C:\Users\Denis\source\repos\AutoService\AutoService\obj\Debug\AutoService.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\AutoService\AutoService\obj\Debug\AutoService.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\AutoService\AutoService\obj\Debug\AutoService.exe
+C:\Users\Denis\source\repos\AutoService\AutoService\obj\Debug\AutoService.pdb
