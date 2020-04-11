@@ -1,0 +1,6 @@
+C:\Users\Denis\source\repos\TrainConfigurator\TrainConfigurator\bin\Debug\TrainConfigurator.exe.config
+C:\Users\Denis\source\repos\TrainConfigurator\TrainConfigurator\bin\Debug\TrainConfigurator.exe
+C:\Users\Denis\source\repos\TrainConfigurator\TrainConfigurator\bin\Debug\TrainConfigurator.pdb
+C:\Users\Denis\source\repos\TrainConfigurator\TrainConfigurator\obj\Debug\TrainConfigurator.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\TrainConfigurator\TrainConfigurator\obj\Debug\TrainConfigurator.exe
+C:\Users\Denis\source\repos\TrainConfigurator\TrainConfigurator\obj\Debug\TrainConfigurator.pdb
